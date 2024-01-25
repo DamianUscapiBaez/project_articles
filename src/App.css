@@ -1,0 +1,4 @@
+/* Modificar el z-index de SweetAlert */
+.swal2-container {
+    z-index: 9999; /* Ajusta este valor según tus necesidades */
+}
